@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "id": "linspectacles-firmware-inspector",
+  "name": "Firmware Inspector",
+  "version": "0.0.5",
+  "author": "brunonlinespace",
+  "editor": "brunonlinespace",
+  "publisher": "brunonlinespace",
+  "organization_id": "linspectacles",
+  "organization_url": "https://github.com/linspectacles/",
+  "repository": "https://github.com/linspectacles/firmware-inspector",
+  "order": 20,
+  "entrypoint": "firmware_inspector/applet.py",
+  "factory": "create_applet",
+  "standalone": "standalone.py",
+  "description": "Read-only firmware inspector for platform firmware identity, DMI/SMBIOS, ACPI tables, EFI variables, EFI System Resource Table entries, CPU microcode evidence, Device Tree, and local fwupd device/update state.",
+  "platforms": [
+    "linux"
+  ],
+  "read_only": true
+}
