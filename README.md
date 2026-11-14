@@ -8,7 +8,6 @@ Current release: **0.0.5**
 
 Repository: <https://github.com/linspectacles/firmware-inspector>
 
-
 <p align="center">
   <a href="https://github.com/brunonlinespace/brunonlinespace/blob/main/linspectacles/firmware-inspector.png">
     <img
@@ -18,6 +17,7 @@ Repository: <https://github.com/linspectacles/firmware-inspector>
     >
   </a>
 </p>
+
 ## What Firmware Inspector is
 
 Firmware Inspector answers a focused question: **what platform-firmware state and firmware-provided system description does the running Linux system expose?**
